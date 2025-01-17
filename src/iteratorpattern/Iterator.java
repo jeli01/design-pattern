@@ -1,0 +1,6 @@
+package iteratorpattern;
+
+public interface Iterator {
+    boolean next();
+    Object current();
+}
