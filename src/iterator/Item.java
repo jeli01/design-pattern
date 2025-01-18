@@ -1,4 +1,4 @@
-package iteratorpattern;
+package iterator;
 
 public class Item {
     private String name;

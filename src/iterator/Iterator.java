@@ -1,4 +1,4 @@
-package iteratorpattern;
+package iterator;
 
 public interface Iterator {
     boolean next();

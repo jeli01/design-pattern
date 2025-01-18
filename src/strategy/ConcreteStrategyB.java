@@ -1,4 +1,4 @@
-package strategypattern;
+package strategy;
 
 public class ConcreteStrategyB implements Strategy {
     @Override
